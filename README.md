@@ -158,4 +158,14 @@ AgriYield_Predictor/
 
 ---
 
+## 🖥️ Demo Preview
+
+The following visual demonstrates the Top-5 Crop Prediction output:
+
+<p align="center">
+  <img width="985" height="615" alt="image" src="https://github.com/user-attachments/assets/cc63dc32-0422-459d-a235-f60320f850f4" />
+
+</p>
+
+
 ⭐ If you found this project useful, feel free to **star the repository** and share feedback!
